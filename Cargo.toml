@@ -1,0 +1,12 @@
+[package]
+name = "codewars-solutions"
+version = "0.1.0"
+edition = "2021"
+
+[[bin]]
+name = "does_my_number_look_big_in_this"
+path = "src/6-kyu/does_my_number_look_big_in_this/rust/main.rs"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
