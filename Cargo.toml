@@ -7,6 +7,10 @@ edition = "2021"
 name = "does_my_number_look_big_in_this"
 path = "src/6-kyu/does_my_number_look_big_in_this/rust/main.rs"
 
+[[bin]]
+name = "dollars_and_cents"
+path = "src/8-kyu/dollars_and_cents/rust/main.rs"
+
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
 [dependencies]
